@@ -2,19 +2,19 @@
 <testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-21T21:08:27Z" name="Suite" finished-at="2023-10-21T21:08:27Z" duration-ms="205">
+  <suite started-at="2023-10-21T22:53:44Z" name="Suite" finished-at="2023-10-21T22:53:45Z" duration-ms="212">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.api.cucumber.stepDef.runnerFile@33b1c5c5]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2023-10-21T21:08:27Z" name="Test" finished-at="2023-10-21T21:08:27Z" duration-ms="205">
+    <test started-at="2023-10-21T22:53:44Z" name="Test" finished-at="2023-10-21T22:53:45Z" duration-ms="212">
       <class name="com.api.cucumber.stepDef.runnerFile">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.api.cucumber.stepDef.runnerFile@33b1c5c5]" started-at="2023-10-21T21:08:27Z" name="setUpClass" finished-at="2023-10-21T21:08:27Z" duration-ms="188" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.api.cucumber.stepDef.runnerFile@33b1c5c5]" started-at="2023-10-21T22:53:44Z" name="setUpClass" finished-at="2023-10-21T22:53:45Z" duration-ms="189" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.api.cucumber.stepDef.runnerFile@33b1c5c5]" started-at="2023-10-21T21:08:27Z" name="tearDownClass" finished-at="2023-10-21T21:08:27Z" duration-ms="9" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.api.cucumber.stepDef.runnerFile@33b1c5c5]" started-at="2023-10-21T22:53:45Z" name="tearDownClass" finished-at="2023-10-21T22:53:45Z" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

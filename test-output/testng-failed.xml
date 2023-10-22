@@ -3,18 +3,18 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="curdOperations.GET_Read">
+      <class name="curdOperations.Create_Post">
         <methods>
-          <include name="getResponseTime"/>
-          <include name="tearDown"/>
-          <include name="getHeaderDataType"/>
-          <include name="getStausCode"/>
-          <include name="setUp"/>
           <include name="getURLValue"/>
           <include name="getCheckAttributeKey"/>
           <include name="getBodyNullCheck"/>
+          <include name="getResponseTime"/>
+          <include name="getHeaderDataType"/>
+          <include name="getStausCode"/>
+          <include name="setUP"/>
+          <include name="tearDpown"/>
         </methods>
-      </class> <!-- curdOperations.GET_Read -->
+      </class> <!-- curdOperations.Create_Post -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
